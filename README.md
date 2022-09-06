@@ -1,5 +1,5 @@
 ```
-![screenshot](assets/Republic Credit.png)
+![screenshot](./assets/RepublicCredit.png)
 ```                                         
 
 [![circle ci](https://badgen.net/circleci/github/adrianmcli/eth95)](https://circleci.com/gh/adrianmcli/eth95)
