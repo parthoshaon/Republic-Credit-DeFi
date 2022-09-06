@@ -1,6 +1,5 @@
 ```
-![screenshot](./assets/screenshot.png)
-
+![screenshot](./assets/Republic Credit.png)
 ```                                         
 
 [![circle ci](https://badgen.net/circleci/github/adrianmcli/eth95)](https://circleci.com/gh/adrianmcli/eth95)
@@ -9,7 +8,6 @@
 
 ---
 
-![screenshot](./assets/Republic Credit.png)
 
 _**Instant retro UI for calling any contract function you want**_
 
