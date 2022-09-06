@@ -1,0 +1,159 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "CoinHolder",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "USDinvested",
+						"type": "uint256"
+					}
+				],
+				"name": "BuyRepublicCredit",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "CoinHolder",
+						"type": "address"
+					}
+				],
+				"name": "EquityinRepublicCredit",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Purchase",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "CoinHolder",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "CoinSold",
+						"type": "uint256"
+					}
+				],
+				"name": "SellRepublicCredit",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "TotalRepublicCredit",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "USDRepublicCredit",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "CoinHolder",
+						"type": "address"
+					}
+				],
+				"name": "equity_in_usd",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RepublicCredit.sol": "RepublicCredit"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RepublicCredit.sol": {
+			"keccak256": "0x6eb10ffdfaaa85bdd83792cfc8f1675a39cf2ef85c842a76269c438f25d16e4a",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e7fe06290d1fefa5d445a938bfb840c083369af7a52ac2b6532a563354dff544",
+				"dweb:/ipfs/QmaEPeDcduMYj7iu8KRR8WSQX5eEdUZVY9Jo7xubf3D9TD"
+			]
+		}
+	},
+	"version": 1
+}
