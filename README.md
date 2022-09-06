@@ -1,4 +1,5 @@
 ```
+![screenshot](./assets/screenshot.png)
 
 ```                                         
 
@@ -8,7 +9,7 @@
 
 ---
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/Republic Credit.png)
 
 _**Instant retro UI for calling any contract function you want**_
 
