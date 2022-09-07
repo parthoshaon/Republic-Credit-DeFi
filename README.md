@@ -17,17 +17,6 @@
 
 ---
 
-
-_**Instant retro UI for calling any contract function you want**_
-
-See it online @ [eth95.dev](https://eth95.dev/) here's an example with DAI:
-
-```
-https://eth95.dev/?network=1&address=0x6b175474e89094c44da98b954eedeac495271d0f
-```
-
-[Direct Link](https://eth95.dev/?network=1&address=0x6b175474e89094c44da98b954eedeac495271d0f)
-
 ## Features
 
 - 🤙 Call any contract function as long as you have the ABI
@@ -37,21 +26,27 @@ https://eth95.dev/?network=1&address=0x6b175474e89094c44da98b954eedeac495271d0f
 - ⚙️ Set a custom signer or a custom contract address
 - 📜 Built-in log for easy visibility
 
-## Install
+### Installation
 
-Works on any dapp project (Truffle, Buidler, etc.) as long as you point it to the JSON artifacts. And even if you don't have a project, you can run it by itself and manually add ABIs and artifacts.
+1.  Install Ganache 
+    <p><a href="https://github.com/trufflesuite/ganache/releases">Download</a> the appropriate version for your OS:</p>
+        <ul> 
+          <li>Windows: <code>Ganache-*.appx</code></li>
+          <li>Mac: <code>Ganache-*.dmg</code></li> 
+          <li>Linux: <code>ganache-*.AppImage</code></li> 
+        </ul>
 
-1. Install
 
-    ```shell
-    npm install -g eth95
-    ```
 
-2. Run with path to your artifacts folder:
-
-    ```shell
-    eth95 ./build/contracts
-    ```
+2. Clone the repo
+   ```sh
+   git clone https://github.com/MyEtherWallet/etherwallet
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. <code>index.html</code> is for MyEtherWallet.com.
 
 ## How it works
 
