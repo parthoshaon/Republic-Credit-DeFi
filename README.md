@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://github.com/parthoshaon/Republic-Credit-DeFi">
     <img src="https://user-images.githubusercontent.com/35532359/188829301-4b14ec33-a906-4518-94f4-738fa659deda.png" alt="Logo" width="400" height="400">
