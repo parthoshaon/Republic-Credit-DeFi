@@ -1,6 +1,7 @@
 ```
-![screenshot](./assets/RepublicCredit.png)
-```                                         
+![RepublicCredit](https://user-images.githubusercontent.com/35532359/188829181-a9be2ea8-664c-4985-984b-ea231e6b4ba2.png)
+``` 
+                                     
 
 [![circle ci](https://badgen.net/circleci/github/adrianmcli/eth95)](https://circleci.com/gh/adrianmcli/eth95)
 [![npm version](https://badgen.net/npm/v/eth95)](https://www.npmjs.com/package/eth95)
