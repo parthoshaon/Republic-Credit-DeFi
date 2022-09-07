@@ -9,9 +9,9 @@
     Republic Credit is producing one million coins so that investors may purchase them or even sell them as its' going to offer a buyback option that essentially lets
     you buy the coins back from the investors. It uses Ganache - Truffle for user friendly interface to interact with the smart contract and an Ethereum based wallet.
     <br />
-    <a href="https://arc.aiub.edu/"><strong>Explore the website »</strong></a>
+    <a href="https://parthoshaon.github.io/Republic-Credit-DeFi/"><strong>Explore the website »</strong></a>
     <br />
-    <a href="https://www.youtube.com/watch?v=LRO5xW3Wr8Q&feature=emb_title&ab_channel=AIUBROBOTICCREW"> <h3> View Demo </h3> </a>
+    <a href="https://parthoshaon.github.io/Republic-Credit-DeFi/"> <h3> View Demo </h3> </a>
   </p>
 </div>
 
