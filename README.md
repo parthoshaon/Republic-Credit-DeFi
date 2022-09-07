@@ -1,11 +1,20 @@
-```
-![RepublicCredit](https://user-images.githubusercontent.com/35532359/188829181-a9be2ea8-664c-4985-984b-ea231e6b4ba2.png)
-``` 
-                                     
+<br />
+<div align="center">
+  <a href="https://github.com/parthoshaon/Republic-Credit-DeFi">
+    <img src="https://user-images.githubusercontent.com/35532359/188829301-4b14ec33-a906-4518-94f4-738fa659deda.png" alt="Logo" width="400" height="400">
+  </a>
 
-[![circle ci](https://badgen.net/circleci/github/adrianmcli/eth95)](https://circleci.com/gh/adrianmcli/eth95)
-[![npm version](https://badgen.net/npm/v/eth95)](https://www.npmjs.com/package/eth95)
-![MIT licensed](https://badgen.net/badge/license/MIT/blue)
+<!--   <h1 align="center"> <strong> Republic Credit </strong> </h1> -->
+
+  <p align="center">
+    Republic Credit is producing one million coins so that investors may purchase them or even sell them as its' going to offer a buyback option that essentially lets
+    you buy the coins back from the investors. It uses Ganache - Truffle for user friendly interface to interact with the smart contract and an Ethereum based wallet.
+    <br />
+    <a href="https://arc.aiub.edu/"><strong>Explore the website »</strong></a>
+    <br />
+    <a href="https://www.youtube.com/watch?v=LRO5xW3Wr8Q&feature=emb_title&ab_channel=AIUBROBOTICCREW"> <h3> View Demo </h3> </a>
+  </p>
+</div>
 
 ---
 
