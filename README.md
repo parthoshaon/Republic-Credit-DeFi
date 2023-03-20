@@ -56,4 +56,4 @@ Note that you can also add any contracts you want if you have the ABI or Artifac
 
 ## Contact
 
-If you have any questions or comments, please file an issue.
+If you have any questions or comments, please file an issue
